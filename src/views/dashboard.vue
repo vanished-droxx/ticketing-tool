@@ -1,11 +1,11 @@
 <template>
-  <router-view />
+    <h3>hello there</h3>
 </template>
 
 <script>
 
 </script>
 
-<style>
+<style scoped>
 
 </style>
